@@ -1,5 +1,5 @@
 AnalysisType: rule
-Filename: user_accesing_admin_portal.py
+Filename: user_accessing_admin_portal.py
 RuleID: "Okta.UserAccessingAdminApp"
 DisplayName: "Custom: Okta User Accessing Admin App"
 Enabled: true
