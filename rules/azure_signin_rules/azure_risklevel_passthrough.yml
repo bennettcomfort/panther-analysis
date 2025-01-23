@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: azure_risklevel_passthrough.py
 RuleID: "Azure.Audit.RiskLevelPassthrough"
 DisplayName: "Azure RiskLevel Passthrough"
-enabled: false
+disabled: true
 Threshold: 1
 DedupPeriodMinutes: 10
 LogTypes:

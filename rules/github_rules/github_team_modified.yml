@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: github_team_modified.py
 RuleID: "GitHub.Team.Modified"
 DisplayName: "GitHub Team Modified"
-enabled: false
+disabled: true
 LogTypes:
   - GitHub.Audit
 Tags:

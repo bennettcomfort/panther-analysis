@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: An Auth0 user enabled an mfa factor in your organization's mfa settings.
 DisplayName: "Auth0 mfa factor enabled"
-enabled: false
+disabled: true
 Filename: auth0_mfa_factor_setting_enabled.py
 Runbook: Assess if this was done by the user for a valid business reason. Be vigilant to re-enable this setting as it's in the best security interest for your organization's security posture.
 Reference: https://auth0.com/docs/secure/multi-factor-authentication/multi-factor-authentication-factors
@@ -169,7 +169,7 @@ Tests:
             userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
           response:
             body:
-              enabled: false
+              disabled: true
             statusCode: 200
         ip: 12.12.12.12
         log_id: "90020230515215719063964000000000000001223372037488829643"
@@ -351,7 +351,7 @@ Tests:
             userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
           response:
             body:
-              Enabled: false
+              disabled: true
             statusCode: 200
         ip: 12.12.12.12
         log_id: "90020230515215719063964000000000000001223372037488829643"

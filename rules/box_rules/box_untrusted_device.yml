@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: box_untrusted_device.py
 RuleID: "Box.Untrusted.Device"
 DisplayName: "Box Untrusted Device Login"
-enabled: false
+disabled: true
 LogTypes:
   - Box.Event
 Tags:

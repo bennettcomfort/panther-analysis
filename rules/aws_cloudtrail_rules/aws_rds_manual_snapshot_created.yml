@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_rds_manual_snapshot_created.py
 RuleID: "AWS.RDS.ManualSnapshotCreated"
 DisplayName: "AWS RDS Manual/Public Snapshot Created"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

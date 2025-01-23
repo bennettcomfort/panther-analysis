@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: github_user_access_key_created.py
 RuleID: "GitHub.User.AccessKeyCreated"
 DisplayName: "GitHub User Access Key Created"
-enabled: false
+disabled: true
 LogTypes:
   - GitHub.Audit
 Tags:

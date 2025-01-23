@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_mfa_settings_changed.py
 RuleID: "Slack.AuditLogs.MFASettingsChanged"
 DisplayName: "Slack MFA Settings Changed"
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

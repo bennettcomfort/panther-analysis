@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: teleport_scheduled_jobs.py
 RuleID: "Teleport.ScheduledJobs"
 DisplayName: "Teleport Scheduled Jobs"
-enabled: false
+disabled: true
 LogTypes:
   - Gravitational.TeleportAudit
 Tags:

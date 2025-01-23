@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_support_reset.py
 RuleID: "Okta.Support.Reset"
 DisplayName: "Okta Support Reset Credential"
-enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Tags:

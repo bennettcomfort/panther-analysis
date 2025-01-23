@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_config_service_created.py
 RuleID: "AWS.ConfigService.Created"
 DisplayName: "AWS Config Service Created"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

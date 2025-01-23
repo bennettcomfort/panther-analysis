@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_detection_passthrough.py
 RuleID: "Crowdstrike.Detection.passthrough"
 DisplayName: "Crowdstrike Detection Passthrough"
-enabled: false
+disabled: true
 Severity: Medium
 LogTypes:
   - Crowdstrike.DetectionSummary

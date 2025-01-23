@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_admin_role_assigned.py
 RuleID: "Okta.AdminRoleAssigned"
 DisplayName: "Okta Admin Role Assigned"
-enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Tags:

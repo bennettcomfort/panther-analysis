@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_console_root_login_failed.py
 RuleID: "AWS.Console.RootLoginFailed"
 DisplayName: "Failed Root Console Login"
-enabled: false
+disabled: true
 DedupPeriodMinutes: 15
 LogTypes:
   - AWS.CloudTrail

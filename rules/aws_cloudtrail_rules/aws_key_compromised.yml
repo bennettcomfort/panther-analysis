@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_key_compromised.py
 RuleID: "AWS.IAM.AccessKeyCompromised"
 DisplayName: "AWS Access Key Uploaded to Github"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Reports:

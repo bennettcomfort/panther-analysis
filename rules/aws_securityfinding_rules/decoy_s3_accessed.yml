@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: decoy_s3_accessed.py
 RuleID: "Decoy.S3.Accessed"
 DisplayName: "Decoy S3 Accessed"
-Enabled: false
+disabled: true
 LogTypes:
     - AWS.SecurityFindingFormat
 Severity: High

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: teleport_network_scanning.py
 RuleID: "Teleport.NetworkScanning"
 DisplayName: "Teleport Network Scan Initiated"
-enabled: false
+disabled: true
 LogTypes:
   - Gravitational.TeleportAudit
 Tags:

@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: This rule captures multiple read/list events related to IAM group management in AWS Cloudtrail.
 DisplayName: "AWS IAM Group Read Only Events"
-Enabled: false
+disabled: true
 Filename: aws_iam_group_read_only_events.py
 Reference: https://attack.mitre.org/techniques/T1069/
 Runbook: Examine other activities done by this user to determine whether or not activity is suspicious.

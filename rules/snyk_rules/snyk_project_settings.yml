@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: snyk_project_settings.py
 RuleID: "Snyk.Project.Settings"
 DisplayName: "Snyk Project Settings"
-enabled: false
+disabled: true
 LogTypes:
   - Snyk.GroupAudit
   - Snyk.OrgAudit

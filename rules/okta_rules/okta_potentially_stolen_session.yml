@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_potentially_stolen_session.py
 RuleID: Okta.PotentiallyStolenSession
 DisplayName: Okta Potentially Stolen Session
-enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Tags:

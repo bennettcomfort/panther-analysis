@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: sign_in_from_rogue_state.py
 RuleID: "Standard.SignInFromRogueState"
 DisplayName: "Sign In from Rogue State"
-enabled: false
+disabled: true
 LogTypes:
   - Asana.Audit
   - Atlassian.Audit

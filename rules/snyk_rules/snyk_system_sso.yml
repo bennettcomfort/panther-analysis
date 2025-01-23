@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: snyk_system_sso.py
 RuleID: "Snyk.System.SSO"
 DisplayName: "Snyk System SSO Settings Changed"
-enabled: false
+disabled: true
 LogTypes:
   - Snyk.GroupAudit
 Tags:

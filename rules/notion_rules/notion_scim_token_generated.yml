@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: notion_scim_token_generated.py
 RuleID: "Notion.Workspace.SCIM.Token.Generated"
 DisplayName: "Notion SCIM Token Generated"
-enabled: false
+disabled: true
 LogTypes:
   - Notion.AuditLogs
 Tags:

@@ -3,7 +3,7 @@ Filename: aws_console_login_without_saml.py
 RuleID: "AWS.Console.LoginWithoutSAML"
 DisplayName: "Logins Without SAML"
 DedupPeriodMinutes: 60
-Enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Reports:

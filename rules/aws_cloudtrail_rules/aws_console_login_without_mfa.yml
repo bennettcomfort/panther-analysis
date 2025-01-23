@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_console_login_without_mfa.py
 RuleID: "AWS.Console.LoginWithoutMFA"
 DisplayName: "Logins Without MFA"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

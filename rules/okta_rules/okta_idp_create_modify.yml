@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_idp_create_modify.py
 RuleID: "Okta.Identity.Provider.Created.Modified"
 DisplayName: "Okta Identity Provider Created or Modified"
-enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Reports:

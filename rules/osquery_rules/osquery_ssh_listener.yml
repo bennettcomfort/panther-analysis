@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: osquery_ssh_listener.py
 RuleID: "Osquery.SSHListener"
 DisplayName: "OSQuery Detected SSH Listener"
-enabled: false
+disabled: true
 LogTypes:
   - Osquery.Differential
 Tags:

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: github_advanced_security_change.py
 RuleID: "GitHub.Advanced.Security.Change"
 DisplayName: "GitHub Security Change, includes GitHub Advanced Security"
-enabled: false
+disabled: true
 CreateAlert: false
 LogTypes:
   - GitHub.Audit

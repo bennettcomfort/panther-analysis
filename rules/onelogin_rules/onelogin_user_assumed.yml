@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_user_assumed.py
 RuleID: "OneLogin.UserAssumption"
 DisplayName: "OneLogin User Assumed Another User"
-enabled: false
+disabled: true
 LogTypes:
   - OneLogin.Events
 Tags:

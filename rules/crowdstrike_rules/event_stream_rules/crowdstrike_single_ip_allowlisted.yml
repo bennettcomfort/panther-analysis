@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_single_ip_allowlisted.py
 RuleID: "Crowdstrike.SingleIpAllowlisted"
 DisplayName: "Crowdstrike Single IP Allowlisted"
-enabled: false
+disabled: true
 LogTypes:
   - Crowdstrike.EventStreams
 Severity: Medium

@@ -3,7 +3,7 @@ Filename: thinkst_canarytoken_incident.py
 DisplayName: Thinkst Canarytoken Incident
 RuleID: Thinkst.CanaryTokenIncident
 Description: "A Canarytoken incident has been detected."
-enabled: false
+disabled: true
 Severity: High
 LogTypes:
   - ThinkstCanary.Alert

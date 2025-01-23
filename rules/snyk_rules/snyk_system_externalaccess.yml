@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: snyk_system_externalaccess.py
 RuleID: "Snyk.System.ExternalAccess"
 DisplayName: "Snyk System External Access Settings Changed"
-enabled: false
+disabled: true
 LogTypes:
   - Snyk.GroupAudit
   - Snyk.OrgAudit

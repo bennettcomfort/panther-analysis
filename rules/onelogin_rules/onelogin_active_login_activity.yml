@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_active_login_activity.py
 RuleID: "OneLogin.ActiveLoginActivity"
 DisplayName: "OneLogin Active Login Activity"
-enabled: false
+disabled: true
 LogTypes:
   - OneLogin.Events
 Tags:

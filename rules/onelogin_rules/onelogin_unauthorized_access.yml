@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_unauthorized_access.py
 RuleID: "OneLogin.UnauthorizedAccess"
 DisplayName: "OneLogin Unauthorized Access"
-enabled: false
+disabled: true
 LogTypes:
   - OneLogin.Events
 Tags:

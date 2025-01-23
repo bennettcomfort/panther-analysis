@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_idp_signin.py
 RuleID: "Okta.Identity.Provider.SignIn"
 DisplayName: "Okta Identity Provider Sign-in"
-Enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Tags:

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_dlp_modified.py
 RuleID: "Slack.AuditLogs.DLPModified"
 DisplayName: "Slack DLP Modified"
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

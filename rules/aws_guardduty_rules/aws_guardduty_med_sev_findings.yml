@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_guardduty_med_sev_findings.py
 RuleID: "AWS.GuardDuty.MediumSeverityFinding"
 DisplayName: "AWS GuardDuty Medium Severity Finding"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.GuardDuty
 Tags:

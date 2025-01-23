@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: teleport_role_created.py
 RuleID: Teleport.RoleCreated
 DisplayName: A Teleport Role was modified or created
-enabled: false
+disabled: true
 LogTypes:
   - Gravitational.TeleportAudit
 Tags:

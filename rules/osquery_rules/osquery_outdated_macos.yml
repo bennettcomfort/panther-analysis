@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: osquery_outdated_macos.py
 RuleID: "Osquery.UnsupportedMacOS"
 DisplayName: "Unsupported macOS version"
-enabled: false
+disabled: true
 LogTypes:
   - Osquery.Differential
 Tags:

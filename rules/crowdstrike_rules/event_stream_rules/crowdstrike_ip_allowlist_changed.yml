@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_ip_allowlist_changed.py
 RuleID: "Crowdstrike.IpAllowlistChanged"
 DisplayName: "Crowdstrike IP Allowlist Changed"
-enabled: false
+disabled: true
 LogTypes:
   - Crowdstrike.EventStreams
 Severity: Info

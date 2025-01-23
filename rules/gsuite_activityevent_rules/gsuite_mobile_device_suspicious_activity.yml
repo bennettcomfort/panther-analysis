@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_mobile_device_suspicious_activity.py
 RuleID: "GSuite.DeviceSuspiciousActivity"
 DisplayName: "GSuite Device Suspicious Activity"
-enabled: false
+disabled: true
 LogTypes:
   - GSuite.ActivityEvent
 Tags:

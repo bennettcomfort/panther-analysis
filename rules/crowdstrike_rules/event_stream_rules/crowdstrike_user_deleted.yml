@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_user_deleted.py
 RuleID: "Crowdstrike.UserDeleted"
 DisplayName: "Crowdstrike User Deleted"
-enabled: false
+disabled: true
 LogTypes:
   - Crowdstrike.EventStreams
 Severity: High

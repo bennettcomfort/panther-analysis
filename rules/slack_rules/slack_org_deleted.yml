@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_org_deleted.py
 RuleID: "Slack.AuditLogs.OrgDeleted"
 DisplayName: "Slack Organization Deleted"
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

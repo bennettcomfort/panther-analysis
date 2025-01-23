@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: notion_teamspace_owner_added.py
 RuleID: "Notion.TeamspaceOwnerAdded"
 DisplayName: "Notion Teamspace Owner Added"
-enabled: false
+disabled: true
 LogTypes:
   - Notion.AuditLogs
 Tags:

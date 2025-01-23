@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: cloudflare_httpreq_bot_high_volume.py
 RuleID: "Cloudflare.HttpRequest.BotHighVolume"
 DisplayName: "Cloudflare Bot High Volume"
-Enabled: false
+disabled: true
 LogTypes:
   - Cloudflare.HttpRequest
 Tags:

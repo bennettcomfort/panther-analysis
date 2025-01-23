@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: tines_sso_settings.py
 RuleID: Tines.SSO.Settings
 DisplayName: Tines SSO Settings
-enabled: false
+disabled: true
 LogTypes:
   - Tines.Audit
 Tags:

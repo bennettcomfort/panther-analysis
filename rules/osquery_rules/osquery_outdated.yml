@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: osquery_outdated.py
 RuleID: "Osquery.OutdatedAgent"
 DisplayName: "Osquery Agent Outdated"
-enabled: false
+disabled: true
 LogTypes:
   - Osquery.Differential
 Tags:

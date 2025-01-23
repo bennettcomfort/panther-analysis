@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: teleport_long_lived_certs.py
 RuleID: Teleport.LongLivedCerts
 DisplayName: A long-lived cert was created
-enabled: false
+disabled: true
 LogTypes:
   - Gravitational.TeleportAudit
 Tags:

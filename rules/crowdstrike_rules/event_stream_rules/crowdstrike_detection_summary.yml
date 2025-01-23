@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_detection_summary.py
 RuleID: "Crowdstrike.EppDetectionSummary"
 DisplayName: "Crowdstrike Detection Summary"
-enabled: false
+disabled: true
 LogTypes:
   - Crowdstrike.EventStreams
 Severity: Medium

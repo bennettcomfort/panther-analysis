@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: admin_assigned.py
 RuleID: "Standard.AdminRoleAssigned"
 DisplayName: "Admin Role Assigned"
-enabled: false
+disabled: true
 LogTypes:
   - Asana.Audit
   - Atlassian.Audit

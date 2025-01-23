@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: A user's MFA has been removed
 DisplayName: "Microsoft365 MFA Disabled"
-enabled: false
+disabled: true
 Filename: microsoft365_mfa_disabled.py
 Reports:
   MITRE ATT&CK:

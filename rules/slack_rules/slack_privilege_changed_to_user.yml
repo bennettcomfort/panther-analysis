@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_privilege_changed_to_user.py
 RuleID: Slack.AuditLogs.UserPrivilegeChangedToUser
 DisplayName: Slack User Privileges Changed to User
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

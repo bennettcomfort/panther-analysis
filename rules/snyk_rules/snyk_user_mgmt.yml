@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: snyk_user_mgmt.py
 RuleID: "Snyk.User.Management"
 DisplayName: "Snyk User Management"
-enabled: false
+disabled: true
 LogTypes:
   - Snyk.GroupAudit
   - Snyk.OrgAudit

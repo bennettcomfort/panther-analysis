@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: tines_team_destruction.py
 RuleID: Tines.Team.Destruction
 DisplayName: "Tines Team Destruction"
-enabled: false
+disabled: true
 LogTypes:
   - Tines.Audit
 Tags:

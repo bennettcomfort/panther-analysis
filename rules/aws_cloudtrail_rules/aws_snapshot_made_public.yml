@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_snapshot_made_public.py
 RuleID: "AWS.CloudTrail.SnapshotMadePublic"
 DisplayName: "AWS Snapshot Made Public"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Severity: Medium

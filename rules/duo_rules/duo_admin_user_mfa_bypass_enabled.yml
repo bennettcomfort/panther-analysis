@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: An Administrator enabled a user to authenticate without MFA.
 DisplayName: "Duo Admin User MFA Bypass Enabled"
-enabled: false
+disabled: true
 Filename: duo_admin_user_mfa_bypass_enabled.py
 Reference: https://duo.com/docs/policy#authentication-policy
 Severity: Medium

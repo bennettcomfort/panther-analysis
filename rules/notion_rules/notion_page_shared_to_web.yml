@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: notion_page_shared_to_web.py
 RuleID: "Notion.PageSharedToWeb"
 DisplayName: "Notion Page Published to Web"
-enabled: false
+disabled: true
 LogTypes:
   - Notion.AuditLogs
 Tags:

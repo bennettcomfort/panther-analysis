@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: panther_saml_modified.py
 RuleID: "Panther.SAML.Modified"
 DisplayName: "Panther SAML configuration has been modified"
-enabled: false
+disabled: true
 LogTypes:
   - Panther.Audit
 Severity: High

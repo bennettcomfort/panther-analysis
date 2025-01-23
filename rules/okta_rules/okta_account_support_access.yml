@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_account_support_access.py
 RuleID: "Okta.Support.Access"
 DisplayName: "Okta Support Access Granted"
-enabled: false
+disabled: true
 LogTypes:
   - Okta.SystemLog
 Tags:

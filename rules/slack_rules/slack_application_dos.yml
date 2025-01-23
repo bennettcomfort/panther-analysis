@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_application_dos.py
 RuleID: "Slack.AuditLogs.ApplicationDoS"
 DisplayName: "Slack Denial of Service"
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

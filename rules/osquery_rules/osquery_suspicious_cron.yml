@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: osquery_suspicious_cron.py
 RuleID: "Osquery.SuspiciousCron"
 DisplayName: "Suspicious cron detected"
-enabled: false
+disabled: true
 LogTypes:
   - Osquery.Differential
 Tags:

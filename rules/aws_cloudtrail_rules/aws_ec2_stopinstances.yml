@@ -1,7 +1,7 @@
 AnalysisType: rule
 RuleID: "AWS.EC2.StopInstances"
 DisplayName: "CloudTrail EC2 StopInstances"
-enabled: false
+disabled: true
 CreateAlert: false
 Filename: aws_ec2_stopinstances.py
 LogTypes:

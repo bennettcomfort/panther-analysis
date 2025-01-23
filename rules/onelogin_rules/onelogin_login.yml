@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_login.py
 RuleID: "OneLogin.Login"
 DisplayName: "Signal - OneLogin Login"
-enabled: false
+disabled: true
 CreateAlert: false
 LogTypes:
   - OneLogin.Events

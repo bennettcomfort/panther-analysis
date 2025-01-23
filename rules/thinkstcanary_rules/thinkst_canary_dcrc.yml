@@ -3,7 +3,7 @@ Filename: thinkst_canary_dcrc.py
 DisplayName: Thinkst Canary DCRC
 RuleID: Thinkst.CanaryDCRC
 Description: "A Canary has disconnected/reconnected."
-enabled: false
+disabled: true
 Severity: High
 LogTypes:
   - ThinkstCanary.Alert

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: github_repo_hook_modified.py
 RuleID: "GitHub.Repo.HookModified"
 DisplayName: "DEPRECATED - GitHub Web Hook Modified"
-Enabled: false
+disabled: true
 LogTypes:
   - GitHub.Audit
 Tags:

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_root_access_key_created.py
 RuleID: "AWS.CloudTrail.RootAccessKeyCreated"
 DisplayName: "Root Account Access Key Created"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

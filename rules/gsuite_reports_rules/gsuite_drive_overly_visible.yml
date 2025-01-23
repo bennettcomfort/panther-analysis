@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_drive_overly_visible.py
 RuleID: "GSuite.DriveOverlyVisible"
 DisplayName: "GSuite Overly Visible Drive Document"
-enabled: false
+disabled: true
 LogTypes:
   - GSuite.Reports
 Tags:

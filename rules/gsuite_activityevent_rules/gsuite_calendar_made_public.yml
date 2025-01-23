@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_calendar_made_public.py
 RuleID: "GSuite.CalendarMadePublic"
 DisplayName: "GSuite Calendar Has Been Made Public"
-enabled: false
+disabled: true
 LogTypes:
   - GSuite.ActivityEvent
 Tags:

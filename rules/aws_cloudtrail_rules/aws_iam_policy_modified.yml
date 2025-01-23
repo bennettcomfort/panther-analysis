@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_iam_policy_modified.py
 RuleID: "AWS.IAM.PolicyModified"
 DisplayName: "IAM Policy Modified"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

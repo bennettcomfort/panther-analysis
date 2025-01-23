@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_iam_anything_changed.py
 RuleID: "AWS.CloudTrail.IAMAnythingChanged"
 DisplayName: "IAM Change"
-enabled: false
+disabled: true
 LogTypes:
   - AWS.CloudTrail
 Tags:

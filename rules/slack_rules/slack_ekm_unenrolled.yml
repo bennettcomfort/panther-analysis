@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: slack_ekm_unenrolled.py
 RuleID: "Slack.AuditLogs.EKMUnenrolled"
 DisplayName: "Slack EKM Unenrolled"
-enabled: false
+disabled: true
 LogTypes:
   - Slack.AuditLogs
 Tags:

@@ -1,7 +1,7 @@
 AnalysisType: rule
 RuleID: "Netskope.UnauthorizedAPICalls"
 DisplayName: "Netskope Many Unauthorized API Calls"
-enabled: false
+disabled: true
 Filename: netskope_unauthorized_api_calls.py
 LogTypes:
   - Netskope.Audit

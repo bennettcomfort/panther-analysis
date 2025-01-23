@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: snowflake_stream_login_success.py
 RuleID: Snowflake.Stream.LoginSuccess
 DisplayName: Snowflake Successful Login
-enabled: false
+disabled: true
 LogTypes:
   - Snowflake.LoginHistory
 Severity: Info

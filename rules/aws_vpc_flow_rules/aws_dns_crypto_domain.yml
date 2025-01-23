@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: Identifies clients that may be performing DNS lookups associated with common currency mining pools.
 DisplayName: "AWS DNS Crypto Domain"
-enabled: false
+disabled: true
 Filename: aws_dns_crypto_domain.py
 Reports:
   MITRE ATT&CK:

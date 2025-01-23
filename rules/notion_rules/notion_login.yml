@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: notion_login.py
 RuleID: "Notion.Login"
 DisplayName: "Signal - Notion Login"
-enabled: false
+disabled: true
 CreateAlert: false
 LogTypes:
   - Notion.AuditLogs

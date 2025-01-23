@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: tines_tenant_authtoken.py
 RuleID: Tines.Tenant.AuthToken
 DisplayName: Tines Tenant API Keys Added
-enabled: false
+disabled: true
 LogTypes:
   - Tines.Audit
 Tags:

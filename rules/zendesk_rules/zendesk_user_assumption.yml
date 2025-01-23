@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: zendesk_user_assumption.py
 RuleID: "Zendesk.UserAssumption"
 DisplayName: "Enabled Zendesk Support to Assume Users"
-enabled: false
+disabled: true
 LogTypes:
   - Zendesk.Audit
 Tags:

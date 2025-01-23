@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_drive_visibility_change.py
 RuleID: "GSuite.DriveVisibilityChanged"
 DisplayName: "GSuite External Drive Document"
-Enabled: false
+disabled: true
 LogTypes:
   - GSuite.Reports
 Tags:

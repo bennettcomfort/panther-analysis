@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_login_signal.py
 RuleID: "Okta.Login.Success"
 DisplayName: "Okta Login Signal"
-Enabled: false
+disabled: true
 CreateAlert: false
 LogTypes:
   - Okta.SystemLog

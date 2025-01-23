@@ -1,7 +1,7 @@
 AnalysisType: rule
 RuleID: "Netskope.NetskopePersonnelActivity"
 DisplayName: "Action Performed by Netskope Personnel"
-enabled: false
+disabled: true
 Filename: netskope_personnel_action.py
 LogTypes:
   - Netskope.Audit

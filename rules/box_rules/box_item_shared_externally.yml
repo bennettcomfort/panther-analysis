@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: box_item_shared_externally.py
 RuleID: "Box.Item.Shared.Externally"
 DisplayName: "Box item shared externally"
-Enabled: false
+disabled: true
 LogTypes:
   - Box.Event
 Tags:

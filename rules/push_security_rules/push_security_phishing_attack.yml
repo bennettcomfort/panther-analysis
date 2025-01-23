@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: push_security_phishing_attack.py
 RuleID: "Push.Security.Phishing.Attack"
 DisplayName: "Push Security Phishing Attack"
-enabled: false
+disabled: true
 LogTypes:
   - PushSecurity.Controls
 Severity: High
@@ -17,7 +17,7 @@ Tests:
         appType: OKTA
         browser: CHROME
         employee:
-          chatopsenabled: false
+          chatopsdisabled: true
           creationTimestamp: 1.698669223e+09
           department: Security Engineering
           email: john.hill@example.com
@@ -43,7 +43,7 @@ Tests:
         appType: OKTA
         browser: CHROME
         employee:
-          chatopsenabled: false
+          chatopsdisabled: true
           creationTimestamp: 1.698669223e+09
           department: Security Engineering
           email: john.hill@example.com

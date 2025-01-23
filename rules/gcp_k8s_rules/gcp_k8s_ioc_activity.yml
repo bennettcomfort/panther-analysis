@@ -1,7 +1,7 @@
 AnalysisType: rule
 RuleID: "GCP.K8s.IOC.Activity"
 DisplayName: "GCP K8s IOCActivity"
-enabled: false
+disabled: true
 Filename: gcp_k8s_ioc_activity.py
 LogTypes:
   - GCP.AuditLog
