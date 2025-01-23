@@ -2,7 +2,7 @@
 AnalysisType: rule
 DedupPeriodMinutes: 60
 DisplayName: GCP Firewall Rule Created
-disabled: true
+Enabled: false
 Filename: gcp_firewall_rule_created.py
 RuleID: "GCP.Firewall.Rule.Created"
 Severity: Low

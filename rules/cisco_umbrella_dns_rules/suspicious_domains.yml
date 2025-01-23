@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: suspicious_domains.py
 RuleID: "CiscoUmbrella.DNS.Suspicious"
 DisplayName: "Cisco Umbrella Suspicious Domains"
-disabled: true
+Enabled: false
 DedupPeriodMinutes: 480 # 8 hours
 LogTypes:
   - CiscoUmbrella.DNS

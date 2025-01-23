@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: notion_login_from_blocked_ip.py
 RuleID: "Notion.LoginFromBlockedIP"
 DisplayName: "Notion Login From Blocked IP"
-disabled: true
+Enabled: false
 LogTypes:
   - Notion.AuditLogs
 Tags:

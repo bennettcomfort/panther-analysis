@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: decoy_dynamodb_accessed.py
 RuleID: "Decoy.DynamoDB.Accessed"
 DisplayName: "Decoy DynamoDB Accessed"
-disabled: true
+Enabled: false
 LogTypes:
     - AWS.SecurityFindingFormat
 Severity: High

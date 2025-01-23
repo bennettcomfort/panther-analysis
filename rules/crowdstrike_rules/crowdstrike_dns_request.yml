@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: crowdstrike_dns_request.py
 RuleID: "Crowdstrike.DNS.Request"
 DisplayName: "DNS request to denylisted domain"
-disabled: true
+Enabled: false
 LogTypes:
   - Crowdstrike.DNSRequest
   - Crowdstrike.FDREvent

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: okta_login_without_push_marker.py
 RuleID: "Okta.Login.Without.Push.Marker"
 DisplayName: "Okta Login Without Push Marker"
-disabled: true
+Enabled: false
 Tags:
   - Push Security
   - Configuration Required

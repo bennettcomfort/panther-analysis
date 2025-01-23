@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: decoy_systems_manager_parameter_accessed.py
 RuleID: "Decoy.Systems.Manager.Parameter.Accessed"
 DisplayName: "Decoy Systems Manager Parameter Accessed"
-disabled: true
+Enabled: false
 LogTypes:
     - AWS.SecurityFindingFormat
 Severity: High

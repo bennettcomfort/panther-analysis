@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_workspace_trusted_domains_allowlist.py
 RuleID: "GSuite.Workspace.TrustedDomainsAllowlist"
 DisplayName: "GSuite Workspace Trusted Domain Allowlist Modified"
-disabled: true
+Enabled: false
 LogTypes:
   - GSuite.ActivityEvent
 Tags:

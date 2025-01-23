@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gcp_user_added_to_privileged_group.py
 RuleID: "GCP.User.Added.To.Privileged.Group"
 DisplayName: "GCP User Added to Privileged Group"
-disabled: true
+Enabled: false
 LogTypes:
   - GCP.AuditLog
 Severity: Low

@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: Checks CloudTrail for occurrences of EC2 Image Actions.
 DisplayName: "AWS EC2 Image Monitoring"
-disabled: true
+Enabled: false
 Filename: aws_ec2_monitoring.py
 Reports:
   MITRE ATT&CK:
@@ -128,7 +128,7 @@ Tests:
               maxCount: 1
               minCount: 1
         monitoring:
-          disabled: true
+          Enabled: false
         networkInterfaceSet:
           items:
             - associatePublicIpAddress: true
@@ -162,7 +162,7 @@ Tests:
               ebsOptimized: false
               enaSupport: true
               enclaveOptions:
-                disabled: true
+                Enabled: false
               groupSet:
                 items:
                   - groupId: sg-0aebfa21f302bded9
@@ -311,7 +311,7 @@ Tests:
           launchTemplateId: lt-0622a7ff26539376a
           version: "4"
         monitoring:
-          disabled: true
+          Enabled: false
         subnetId: subnet-0d465e7cad854a993
       sourceIPAddress: eks-nodegroup.amazonaws.com
       userAgent: eks-nodegroup.amazonaws.com

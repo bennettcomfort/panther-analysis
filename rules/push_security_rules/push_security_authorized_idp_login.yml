@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: push_security_authorized_idp_login.py
 RuleID: "Push.Security.Authorized.IdP.Login"
 DisplayName: "Push Security Authorized IdP Login"
-disabled: true
+Enabled: false
 CreateAlert: false
 LogTypes:
   - PushSecurity.Activity

@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: push_security_unauthorized_idp_login.py
 RuleID: "Push.Security.Unauthorized.IdP.Login"
 DisplayName: "Push Security Unauthorized IdP Login"
-disabled: true
+Enabled: false
 Tags:
   - Configuration Required
 LogTypes:

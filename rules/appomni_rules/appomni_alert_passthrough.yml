@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: appomni_alert_passthrough.py
 RuleID: "AppOmni.Alert.Passthrough"
 DisplayName: "AppOmni Alert Passthrough"
-disabled: true
+Enabled: false
 LogTypes:
   - AppOmni.Alerts
 Severity: Medium

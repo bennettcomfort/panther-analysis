@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: decoy_iam_assumed.py
 RuleID: "Decoy.IAM.Assumed"
 DisplayName: "Decoy IAM Assumed"
-disabled: true
+Enabled: false
 LogTypes:
     - AWS.SecurityFindingFormat
 Severity: High

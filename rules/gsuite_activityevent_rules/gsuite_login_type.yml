@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_login_type.py
 RuleID: "GSuite.LoginType"
 DisplayName: "GSuite Login Type"
-disabled: true
+Enabled: false
 LogTypes:
   - GSuite.ActivityEvent
 Tags:

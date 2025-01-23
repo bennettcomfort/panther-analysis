@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: push_security_app_banner_acknowledged.py
 RuleID: "Push.Security.App.Banner.Acknowledged"
 DisplayName: "Push Security App Banner Acknowledged"
-disabled: true
+Enabled: false
 LogTypes:
   - PushSecurity.Activity
 Severity: Low
@@ -23,7 +23,7 @@ Tests:
         appType: DROPBOX
         browser: CHROME
         employee:
-          chatopsdisabled: true
+          chatopsEnabled: false
           creationTimestamp: 1.698669223e+09
           department: Security Engineering
           email: john.hill@example.com
@@ -52,7 +52,7 @@ Tests:
         appType: DROPBOX
         browser: CHROME
         employee:
-          chatopsdisabled: true
+          chatopsEnabled: false
           creationTimestamp: 1.698669223e+09
           department: Security Engineering
           email: john.hill@example.com
@@ -81,7 +81,7 @@ Tests:
         appType: DROPBOX
         browser: CHROME
         employee:
-          chatopsdisabled: true
+          chatopsEnabled: false
           creationTimestamp: 1.698669223e+09
           department: Security Engineering
           email: john.hill@example.com

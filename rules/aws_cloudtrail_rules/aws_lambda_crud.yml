@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_lambda_crud.py
 RuleID: "AWS.LAMBDA.CRUD"
 DisplayName: "Lambda CRUD Actions"
-disabled: true
+Enabled: false
 LogTypes:
   - AWS.CloudTrail
 Tags:

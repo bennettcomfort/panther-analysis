@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: aws_iam_entity_created_without_cloudformation.py
 RuleID: "AWS.CloudTrail.IAMEntityCreatedWithoutCloudFormation"
 DisplayName: "IAM Entity Created Without CloudFormation"
-disabled: true
+Enabled: false
 LogTypes:
   - AWS.CloudTrail
 Reports:
