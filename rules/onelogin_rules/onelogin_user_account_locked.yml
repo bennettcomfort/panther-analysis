@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_user_account_locked.py
 RuleID: "OneLogin.UserAccountLocked"
 DisplayName: "OneLogin User Locked"
-Enabled: true
+enabled: false
 LogTypes:
   - OneLogin.Events
 Tags:

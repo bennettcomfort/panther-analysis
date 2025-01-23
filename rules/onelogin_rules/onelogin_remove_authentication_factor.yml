@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_remove_authentication_factor.py
 RuleID: "OneLogin.AuthFactorRemoved"
 DisplayName: "OneLogin Authentication Factor Removed"
-Enabled: true
+enabled: false
 LogTypes:
   - OneLogin.Events
 Tags:

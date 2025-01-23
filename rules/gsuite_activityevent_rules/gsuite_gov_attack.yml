@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: gsuite_gov_attack.py
 RuleID: "GSuite.GovernmentBackedAttack"
 DisplayName: "GSuite Government Backed Attack"
-Enabled: true
+enabled: false
 LogTypes:
   - GSuite.ActivityEvent
 Tags:

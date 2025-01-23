@@ -2,7 +2,7 @@ AnalysisType: rule
 Filename: onelogin_high_risk_failed_login.py
 RuleID: "OneLogin.HighRiskFailedLogin"
 DisplayName: "OneLogin Failed High Risk Login"
-Enabled: true
+enabled: false
 LogTypes:
   - OneLogin.Events
 Tags:

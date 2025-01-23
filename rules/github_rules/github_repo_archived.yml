@@ -1,7 +1,7 @@
 AnalysisType: rule
 RuleID: "Github.Repo.Archived"
 DisplayName: "GitHub Repository Archived"
-Enabled: true
+enabled: false
 CreateAlert: false
 LogTypes:
   - GitHub.Audit

@@ -2,7 +2,7 @@
 AnalysisType: rule
 DedupPeriodMinutes: 60
 DisplayName: GCP Firewall Rule Deleted
-Enabled: true
+enabled: false
 Filename: gcp_firewall_rule_deleted.py
 RuleID: "GCP.Firewall.Rule.Deleted"
 Severity: Low

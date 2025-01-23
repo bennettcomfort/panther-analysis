@@ -1,7 +1,7 @@
 AnalysisType: rule
 Description: Detects creation of forwarding rule to external domains
 DisplayName: "Microsoft Exchange External Forwarding"
-Enabled: true
+enabled: false
 Filename: microsoft_exchange_external_forwarding.py
 Reports:
   MITRE ATT&CK:
