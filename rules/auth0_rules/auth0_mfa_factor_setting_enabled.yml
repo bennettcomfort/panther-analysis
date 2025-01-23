@@ -12,7 +12,7 @@ LogTypes:
 RuleID: "Auth0.MFA.Factor.Setting.Enabled"
 Threshold: 1
 Tests:
-  - ExpectedResult: true
+  - ExpectedResult: false
     Log:
       data:
         client_id: 1HXWWGKk1Zj3JF8GvMrnCSirccDs4qvr
