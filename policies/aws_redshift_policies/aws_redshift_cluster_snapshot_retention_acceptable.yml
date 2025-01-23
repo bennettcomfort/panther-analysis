@@ -2,7 +2,7 @@ AnalysisType: policy
 Filename: aws_redshift_cluster_snapshot_retention_acceptable.py
 PolicyID: "AWS.Redshift.Cluster.SnapshotRetentionAcceptable"
 DisplayName: "AWS Redshift Cluster Has Acceptable Snapshot Retention Period"
-Enabled: true
+Enabled: false
 ResourceTypes:
   - AWS.Redshift.Cluster
 Tags:

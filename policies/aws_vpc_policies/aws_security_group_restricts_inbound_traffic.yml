@@ -2,7 +2,7 @@ AnalysisType: policy
 Filename: aws_security_group_restricts_inbound_traffic.py
 PolicyID: "AWS.SecurityGroup.RestrictsInboundTraffic"
 DisplayName: "AWS Security Group Restricts Inbound Traffic"
-Enabled: true
+Enabled: false
 ResourceTypes:
   - AWS.EC2.SecurityGroup
 Tags:

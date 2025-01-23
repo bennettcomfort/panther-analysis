@@ -2,7 +2,7 @@ AnalysisType: policy
 Filename: aws_waf_has_xss_predicate.py
 PolicyID: "AWS.WAF.HasXSSPredicate"
 DisplayName: "AWS WAF Has XSS Predicate"
-Enabled: true
+Enabled: false
 ResourceTypes:
   - AWS.WAF.Regional.WebACL
   - AWS.WAF.WebACL
